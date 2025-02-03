@@ -1,3 +1,3 @@
-# Data-Structures-and-Algorithms
-Data Structures and Algorithms in C++
-- Algorithms
+# HashPrep Sheet Solutions
+
+This repository contains HashPrep Sheet Solutions.
