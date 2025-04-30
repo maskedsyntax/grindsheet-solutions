@@ -1,3 +1,3 @@
-# HashPrep Sheet Solutions
+# GrindSheet Solutions
 
-This repository contains HashPrep Sheet Solutions.
+This repository contains GrindSheet Solutions.
